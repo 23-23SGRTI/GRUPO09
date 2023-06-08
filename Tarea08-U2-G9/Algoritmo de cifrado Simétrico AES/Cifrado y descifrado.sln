@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Cifrado y descifrado", "Cifrado y descifrado\Cifrado y descifrado.pyproj", "{DAE4EB94-47E8-4CBE-8B36-55B94406DF57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAE4EB94-47E8-4CBE-8B36-55B94406DF57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAE4EB94-47E8-4CBE-8B36-55B94406DF57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7925EB0-2B89-49C7-B987-E5F65DA6FF8A}
+	EndGlobalSection
+EndGlobal
